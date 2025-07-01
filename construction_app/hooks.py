@@ -144,6 +144,12 @@ app_license = "mit"
 # 		"on_trash": "method"
 # 	}
 # }
+doc_events = {
+    "Timesheet": {
+        "on_submit": "construction_app.timesheet_hooks.update_foundation_cost"
+    }
+}
+
 
 # Scheduled Tasks
 # ---------------
