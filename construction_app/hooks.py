@@ -25,7 +25,7 @@ app_license = "mit"
 # ------------------
 
 # include js, css files in header of desk.html
-# app_include_css = "/assets/construction_app/css/construction_app.css"
+app_include_css = "/assets/construction_app/css/custom.css"
 # app_include_js = "/assets/construction_app/js/construction_app.js"
 
 # include js, css files in header of web template

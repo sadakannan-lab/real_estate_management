@@ -1,0 +1,41 @@
+.layout-main {
+    background-color: #f0f8ff !important;  /* Light blue */
+}
+
+.page-container {
+    background-color: #f9f9f9 !important;
+}
+
+.page-head {
+    background-color: #007bff !important;
+    color: white !important;
+}
+/* Header bar (section title like Property Management) */
+.page-head {
+    background-color: #4CAF50 !important; /* Green */
+    color: #fff !important;
+    font-weight: bold;
+}
+
+/* Sidebar background */
+.layout-side-section {
+    background-color: #e0f7fa !important; /* Light teal */
+}
+
+/* Section headings (e.g., CRM, Stock, etc.) */
+.module-section h6,
+.section-heading {
+    color: #6a1b9a !important; /* Deep purple */
+    font-weight: bold;
+}
+
+/* Labels or text */
+.page-container label,
+.page-container h1, .page-container h2, .page-container h3 {
+    color: #1565c0 !important; /* Strong blue */
+}
+
+/* White background for main panel */
+.layout-main-section {
+    background-color: #fff !important;
+}
